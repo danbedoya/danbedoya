@@ -71,11 +71,11 @@ Frameworks
 
 <a href="https://github.com/danbedoya/danbedoya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbedoya&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a><a href="https://github.com/danbedoya/danbedoya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danbedoya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Daniel's GitHub Stats" />
 </a>
 
-<a href="https://github.com/danbedoya/danbedoya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danbedoya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+
 
 
 # !Thanks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
