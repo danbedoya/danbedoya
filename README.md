@@ -1,10 +1,15 @@
 
-- 👋 Hi, I’m @danbedoya
-- 👀 I’m interested in Learning and build fun things related to the most used programming languages out there, especially dive more into video games development.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate with more projects
-- ⚽ I love soccer
-- 🎮 I love playing video games
+👋 Hi, I’m @danbedoya, a Full-Stack Developer based in Burnaby, BC, Canada.
+
+👀 I’m interested in learning and building fun things related to the most used programming languages out there, especially diving deeper into video games development.
+
+🌱 As a skilled Full-Stack Developer, my area of expertise lies in TypeScript, JavaScript, React, Next, and Node.js, where I excel in delivering exceptional e-commerce website development, custom integrations, and front-end design.
+
+💞️ I’m looking to collaborate with more projects, leveraging my expertise in React, Next.js, Node.js, and Shopify, to create innovative solutions.
+
+⚽ I love soccer and enjoy volunteering as a coach for adult amateur teams in Vancouver. Combining my love for the sport with giving back to the community has been a rewarding experience.
+
+🎮 When I'm not coding, you can find me indulging in my passion for playing video games.
 
 
  Connect with me 
