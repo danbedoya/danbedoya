@@ -78,7 +78,7 @@ Frameworks
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danbedoya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Daniel's GitHub Stats" />
 </a>
 
-
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 # !Thanks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
